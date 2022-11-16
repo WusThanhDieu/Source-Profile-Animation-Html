@@ -1,6 +1,2 @@
 # Source-Profile-Animation-Html
-<style>
-body {
-background-image: url("https://www.dmoe.cc/random.php");
-}
-</style>
+Link Review Image: https://i.imgur.com/HysdKSS.jpg
